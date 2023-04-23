@@ -1,0 +1,6 @@
+user_name: "posquit0"
+user_comment: "from vars.yaml file"
+user_shell: "/bin/bash"
+user_uid: "7777"
+
+# 플레이북 명령어로 해당 파일을 넘겨서 사용
